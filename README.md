@@ -40,6 +40,6 @@ The Makefile has four targets:
 5. Run the program with `./build/monitor` or from the build directory `./monitor`
 
 You should then see a program result as the one below:
-![Completed System Monitor](images/completedSystemMonitor.png)
+![Completed System Monitor](images/SystemMonitorCompleted.png)
 
 Enjoy!
