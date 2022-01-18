@@ -42,4 +42,8 @@ The Makefile has four targets:
 You should then see a program result as the one below:
 ![Completed System Monitor](images/SystemMonitorCompleted.png)
 
-Enjoy!
+## Stability Update for Ubuntu 20.04
+
+Under Ubuntu Fossa 20.04 LTS, the system monitor still functions normally. Only anomaly is the RAM column.
+
+![Ubuntu 20.04 LTS Monitor View](images/Updated.png)
